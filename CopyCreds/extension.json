@@ -1,7 +1,7 @@
 {
 	"name": "CopyCreds",
 	"author": "Thomas Kinsey",
-	"url": "https://www.xarby.com/",
+	"url": "https://www.mediawiki.org/wiki/Extension:CopyCreds",
 	"description": "Creates <un> and <pw> tags which add serifs to the text they surround, as well as copy the text to the clipboard on click.",
 	"version": "2.0",
 	"license-name": "GPL-2.0-or-later",
